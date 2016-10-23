@@ -35,7 +35,7 @@ public class Board {
             }
             s = s + sum;
         }
-        System.out.println("Summary area: " + s);
+        System.out.println("Общая площадь: " + s);
         return s;
     }
 }
